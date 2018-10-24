@@ -257,10 +257,8 @@
 	<action itemid="23403" script="quests/oramond/gerador.lua"/>-->
 
 
-	<!-- Gray Island 
-	<action uniqueid="25610" script="gray island/jaul.lua" />
-	<action uniqueid="25611" script="gray island/tanjis.lua" />
-	<action uniqueid="25612" script="gray island/obujos.lua" />-->
+	<!-- Gray Island -->
+	<action fromuid="25610" touid="25612" script="gray island/deeplingRewards.lua" />
 	
 	<!-- Roshamuul -->
        <action fromid="22604" toid="22606" script="prison/keys.lua"/>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
+	<!-- Gray Island -->
+	<event type="kill" name="deeplingBosses" script="gray_island/deeplingKill.lua"/>
 
 	<!-- Forgotten Knowledge -->
 	<event type="kill" name="thornknight" script="hallsofhope/thornknight.lua" />

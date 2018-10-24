@@ -61,7 +61,8 @@ local events = {
 	'petthink',
 	'UpperSpikeKill',
 	'MiddleSpikeKill',
-	'LowerSpikeKill'
+    'LowerSpikeKill',
+    'deeplingBosses'
 }
  
 local function onMovementRemoveProtection(cid, oldPosition, time)

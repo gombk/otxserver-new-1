@@ -3,6 +3,14 @@
 -- Sort it in Values -
 
 Storage = {
+	DeeplingBosses = {
+		Jaul = 35600,
+		Tanjis = 35601,
+		Obujos = 35602,
+
+		DeeplingStatus = 35603
+	},
+
 	SweetyCyclops = {
 		AmuletTimer = 48,
 		AmuletStatus = 49

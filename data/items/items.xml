@@ -31971,9 +31971,7 @@
 		<attribute key="description" value="A strangely shaped hollow rests in the center of this broken workbench." />
 	</item>		
 	<item id="23668" article="a" name="pungs in the wall" />
-	<item id="23669" name="sewer grate">
-		<attribute key="floorchange" value="down" />
-	</item>	
+	<item id="23669" name="sewer grate" />
 	<item id="23672" article="an" name="Item desconhecido" />
 	<item fromid="23673" toid="23678" name="shallow water">
 		<attribute key="type" value="trashholder" />
